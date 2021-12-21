@@ -1,0 +1,16 @@
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\bin\Debug\Clube.exe.config
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\bin\Debug\Clube.exe
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\bin\Debug\Clube.pdb
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.csproj.AssemblyReference.cache
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.Properties.Resources.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.csproj.GenerateResource.cache
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.csproj.CoreCompileInputs.cache
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.exe
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.pdb
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.FormAdcCategorias.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.FormAdcDependente.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.FormAdcSocio1.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.FormListarSocios.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.Tela_de_Entrada.resources
+C:\Users\felipe.guerrera\source\repos\Clube\Clube\obj\Debug\Clube.FormPagarmensalidade.resources
