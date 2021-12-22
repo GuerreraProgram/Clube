@@ -17,8 +17,7 @@ namespace Clube
         private List<Dependente> dependentes = new List<Dependente>();
         private List<Mensalidade> mensalidades = new List<Mensalidade>();
 
-        SqlCommand cmd = new SqlCommand();
-        Conexao conexao = new Conexao();
+        
         
         public void adicionar_dependente(Dependente dependente)
         {
